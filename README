@@ -1,0 +1,5 @@
+this is a login demo use curl
+
+step 1 : post username and password and save cookie in file
+
+step 2 : curl the url with the cookie file ;
